@@ -45,6 +45,19 @@ Determine the minimal structural ingredients required for:
 - interactions
 - effective particle-like dynamics
 
+  ## Project direction
+
+For readers looking for the current structural organization of the project
+(including what is stable vs actively evolving), see:
+
+
+**Structural Direction (vNext)**  
+  `docs/vnext/structural_direction.md`
+
+This outline is directional rather than final and is intended to help orient
+ongoing work without replacing foundational documents.
+
+
 ---
 
 This repository serves as an open, timestamped record of ongoing development.
